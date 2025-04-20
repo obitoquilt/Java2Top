@@ -93,27 +93,27 @@ MySQL-调优篇（hot🔥）
 
 [1.统计不同号码的个数](./docs/guide/mass-data/1-count-phone-num.md)
 
-[2.出现频率最高的100个词](./mass-data/2-find-hign-frequency-word.md)
+[2.出现频率最高的100个词](./docs/guide/mass-data/2-find-hign-frequency-word.md)
 
-[3.查找两个大文件共同的URL](./mass-data/3-find-same-url.md)
+[3.查找两个大文件共同的URL](./docs/guide/mass-data/3-find-same-url.md)
 
-[4.如何从大量的 URL 中找出相同的 URL？](./mass-data/4-find-mid-num.md)
+[4.如何从大量的 URL 中找出相同的 URL？](./docs/guide/mass-data/4-find-mid-num.md)
 
-[5.如何查询最热门的查询串？](./mass-data/5-find-hot-string.md)
+[5.如何查询最热门的查询串？](./docs/guide/mass-data/5-find-hot-string.md)
 
-[6.如何找出排名前 500 的数？](./mass-data/6-top-500-num.md)
+[6.如何找出排名前 500 的数？](./docs/guide/mass-data/6-top-500-num.md)
 
-[7.如何按照 query 的频度排序？](./mass-data/7-query-frequency-sort.md)
+[7.如何按照 query 的频度排序？](./docs/guide/mass-data/7-query-frequency-sort.md)
 
-[8.如何从大量数据中找出高频词？](./mass-data/8-high-frequency.md)
+[8.如何从大量数据中找出高频词？](./docs/guide/mass-data/8-high-frequency.md)
 
-[9.几亿个数的大文件怎么排序？](./mass-data/9-sort-500-million-large-files.md)
+[9.几亿个数的大文件怎么排序？](./docs/guide/mass-data/9-sort-500-million-large-files.md)
 
 ## 系统设计
 
 [0.开篇-如何设计大型系统？]()
 
-[1.扫码登录的原理？]()
+[1.扫码登录的原理？](./docs/guide/system-design/1-scan-code-login.md)
 
 [2.订单30分钟未支付自动取消怎么实现?]()
 
